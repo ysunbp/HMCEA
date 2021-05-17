@@ -1,2 +1,2 @@
 # HMCEA
-Human machine collaborated entity alignment
+Human machine collaborated entity alignment papers summary
