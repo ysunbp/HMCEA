@@ -18,3 +18,4 @@ __Task Distribution__
 
 __Non-human entity alignment__
 1. OAG: Toward linking large-scale heterogeneous entity graphs (KDD-19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330785?casa_token=BzW8VdjJEX0AAAAA:T5eQvzhVc1aCBnAPHRmFWKSH4P7R9syPN9DHRt10DHa4tQk6OJJsKZp5nuTh2PEi0q_INTOtWDEK)]
+2. Knowledge Graph Alignment with Entity-Pair Embedding (EMNLP-20) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf)]
