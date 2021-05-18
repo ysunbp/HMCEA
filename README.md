@@ -2,7 +2,8 @@
 __General Papers__
 1. Hike: A hybrid human-machine method for entity alignment in large-scale knowledge bases (CIKM-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132912?casa_token=t0SoJF2WayAAAAAA:yhviz0jakhcWfhGgec3viKFPZIenM4QBegX3_519-3oolRl8DQIzmgJhTBKTR0Tm97EIrEU73lRq)]
 2. A Demonstration of PERC: Probabilistic Entity Resolution With Crowd Errors (VLDB-18) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3229863.3236225?casa_token=TcGvPimpEv0AAAAA:QLybjopBNLAnSFXO9MMW3bJwealx1xcgWu8dFwFsds5EjHYCWDu1-QE5HK9PNsm7CXu-hTSdhW0l), [Demo](https://www.youtube.com/watch?v=rQ7nu3b8zXY)]
-3. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
+3. The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data (VLDB-18) [[Paper](http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf), [Code](https://github.com/scify/JedAIToolkit)]
+4. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
 
 
 __Quality Control__
