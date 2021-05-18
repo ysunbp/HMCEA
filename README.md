@@ -1,4 +1,4 @@
-### Human machine collaborated entity alignment interesting papers summary
+### Human Machine Collaborated Entity Alignment interesting papers summary
 __General Papers__
 1. Hike: A hybrid human-machine method for entity alignment in large-scale knowledge bases (CIKM-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132912?casa_token=t0SoJF2WayAAAAAA:yhviz0jakhcWfhGgec3viKFPZIenM4QBegX3_519-3oolRl8DQIzmgJhTBKTR0Tm97EIrEU73lRq)]
 2. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
