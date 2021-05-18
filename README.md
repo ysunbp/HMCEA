@@ -25,3 +25,4 @@ __Non-human entity alignment__
 6. A Lightweight Neural Model for Biomedical Entity Linking (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08844.pdf), [Code](https://github.com/tigerchen52/Biomedical-Entity-Linking)]
 7. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
 8. A Bidirectional Multi-Paragraph Reading Model for Zero-Shot Entity Linking (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-6269.TangH.pdf)]
+9. Read, Retrospect, Select: An MRC Framework to Short Text Entity Linking (AAAI-21) [[Paper](https://arxiv.org/pdf/2101.02394.pdf)]
