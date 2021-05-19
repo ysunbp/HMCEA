@@ -29,12 +29,13 @@ __Non-human entity alignment__
 1. OAG: Toward linking large-scale heterogeneous entity graphs (KDD-19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330785?casa_token=BzW8VdjJEX0AAAAA:T5eQvzhVc1aCBnAPHRmFWKSH4P7R9syPN9DHRt10DHa4tQk6OJJsKZp5nuTh2PEi0q_INTOtWDEK)] ✨
 2. Knowledge Graph Alignment with Entity-Pair Embedding (EMNLP-20) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf)] ✨
 3. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation (AAAI-20) [[Paper](https://arxiv.org/pdf/1911.08936.pdf), [Code](https://github.com/nju-websoft/AliNet)] 
-4. Visual Pivoting for (Unsupervised) Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2009.13603.pdf), [Code](https://github.com/cambridgeltl/eva)] ✨
-5. Relation-Aware Neighborhood Matching Model for Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08128.pdf), [Code](https://github.com/Peter7Yao/RNM)]
-6. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
-7. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD-20) [[Paper](https://arxiv.org/pdf/2003.13114.pdf)]
-8. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
-9. Towards Interpretable and Learnable Risk Analysis for Entity Resolution (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1912.02947.pdf)]
+4. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD-20) [[Paper](https://arxiv.org/pdf/2003.13114.pdf)]
+5. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
+6. Towards Interpretable and Learnable Risk Analysis for Entity Resolution (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1912.02947.pdf)]
+7. Visual Pivoting for (Unsupervised) Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2009.13603.pdf), [Code](https://github.com/cambridgeltl/eva)] ✨
+8. Relation-Aware Neighborhood Matching Model for Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08128.pdf), [Code](https://github.com/Peter7Yao/RNM)]
+9. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
+
 
 __Survey Papers__
 1. Crowdsourced Data Management: Overview and Challenges (SIGMOD-17) [[Paper](https://zhydhkcws.github.io/tutorial/sigmod_tutorial.pdf)]
