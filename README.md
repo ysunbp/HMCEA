@@ -22,7 +22,4 @@ __Non-human entity alignment__
 3. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation (AAAI-20) [[Paper](https://arxiv.org/pdf/1911.08936.pdf), [Code](https://github.com/nju-websoft/AliNet)] 
 4. Visual Pivoting for (Unsupervised) Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2009.13603.pdf), [Code](https://github.com/cambridgeltl/eva)] ✨
 5. Relation-Aware Neighborhood Matching Model for Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08128.pdf), [Code](https://github.com/Peter7Yao/RNM)]
-6. A Lightweight Neural Model for Biomedical Entity Linking (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08844.pdf), [Code](https://github.com/tigerchen52/Biomedical-Entity-Linking)]
-7. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
-8. A Bidirectional Multi-Paragraph Reading Model for Zero-Shot Entity Linking (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-6269.TangH.pdf)]
-9. Read, Retrospect, Select: An MRC Framework to Short Text Entity Linking (AAAI-21) [[Paper](https://arxiv.org/pdf/2101.02394.pdf)]
+6. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
