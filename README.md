@@ -1,10 +1,18 @@
 ### Human Machine Collaborated Entity Alignment interesting papers summary
 __General Papers__
-1. Hike: A hybrid human-machine method for entity alignment in large-scale knowledge bases (CIKM-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132912?casa_token=t0SoJF2WayAAAAAA:yhviz0jakhcWfhGgec3viKFPZIenM4QBegX3_519-3oolRl8DQIzmgJhTBKTR0Tm97EIrEU73lRq)] ✨
-2. A Demonstration of PERC: Probabilistic Entity Resolution With Crowd Errors (VLDB-18) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3229863.3236225?casa_token=TcGvPimpEv0AAAAA:QLybjopBNLAnSFXO9MMW3bJwealx1xcgWu8dFwFsds5EjHYCWDu1-QE5HK9PNsm7CXu-hTSdhW0l), [Demo](https://www.youtube.com/watch?v=rQ7nu3b8zXY)]
-3. The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data (VLDB-18) [[Paper](http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf), [Code](https://github.com/scify/JedAIToolkit)]
-4. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
-5. AuthCrowd: Author Name Disambiguation and Entity Matching using Crowdsourcing (CSCW-21) [[Paper](http://repository.essex.ac.uk/30049/1/Conference_Paper_IEEE_CSCWD21_AuthCrowd.pdf)]
+1. Large-scale linked data integration using probabilistic reasoning and crowdsourcing (VLDB-13) [[Paper](https://www.researchgate.net/publication/257457919_Large-scale_linked_data_integration_using_probabilistic_reasoning_and_crowdsourcing)]
+2. Corleone: hands-off crowd- sourcing for entity matching (SIGMOD-14) [[Paper](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/gokhale.sigmod14.pdf)]
+3. Crowd-Based Deduplica- tion: An Adaptive Approach (SIGMOD-15) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2723372.2723739)]
+4. Online Entity Resolution Using an Oracle (PVLDB-16) [[Paper](http://www.vldb.org/pvldb/vol9/p384-firmani.pdf)]
+5. Hike: A hybrid human-machine method for entity alignment in large-scale knowledge bases (CIKM-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132912?casa_token=t0SoJF2WayAAAAAA:yhviz0jakhcWfhGgec3viKFPZIenM4QBegX3_519-3oolRl8DQIzmgJhTBKTR0Tm97EIrEU73lRq)] ✨
+6. Waldo: AnAdaptive Human Interface for Crowd Entity Resolution (SIGMOD-17) [[Paper](http://ilpubs.stanford.edu:8090/1137/1/ERMultiItemTechRep.pdf)]
+7. Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services (SIGMOD-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3035918.3035960)]
+8. Robust Entity Resolution using Random Graphs (SIGMOD-18) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3183713.3183755?casa_token=YRxBweqABmkAAAAA:_k32o0x-rUDBGRDJAWtUjUUlMVqUDFXJ-s71jR1oqyPnfLrvxpjJ08ZOmxdx3LzAGYt-xN28l4LJ-g)]
+9. A partial-order-based framework for cost-effective crowdsourced entity resolution (VLDB-18) [[Paper](https://link.springer.com/content/pdf/10.1007/s00778-018-0509-6.pdf)]
+10. A Demonstration of PERC: Probabilistic Entity Resolution With Crowd Errors (VLDB-18) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3229863.3236225?casa_token=TcGvPimpEv0AAAAA:QLybjopBNLAnSFXO9MMW3bJwealx1xcgWu8dFwFsds5EjHYCWDu1-QE5HK9PNsm7CXu-hTSdhW0l), [Demo](https://www.youtube.com/watch?v=rQ7nu3b8zXY)]
+11. The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data (VLDB-18) [[Paper](http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf), [Code](https://github.com/scify/JedAIToolkit)]
+12. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
+13. AuthCrowd: Author Name Disambiguation and Entity Matching using Crowdsourcing (CSCW-21) [[Paper](http://repository.essex.ac.uk/30049/1/Conference_Paper_IEEE_CSCWD21_AuthCrowd.pdf)]
 
 
 __Quality Control__
@@ -28,4 +36,5 @@ __Non-human entity alignment__
 8. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
 
 __Survey Papers__
-1. Entity Resolution: Past, Present and Yet-to-Come (EDBT-20) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
+1. Crowdsourced Data Management: Overview and Challenges (SIGMOD-17) [[Paper](https://zhydhkcws.github.io/tutorial/sigmod_tutorial.pdf)]
+2. Entity Resolution: Past, Present and Yet-to-Come (EDBT-20) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
