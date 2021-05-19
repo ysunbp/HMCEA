@@ -1,8 +1,8 @@
 ### Human Machine Collaborated Entity Alignment interesting papers summary
 __General Papers__
 1. Large-scale linked data integration using probabilistic reasoning and crowdsourcing (VLDB-13) [[Paper](https://www.researchgate.net/publication/257457919_Large-scale_linked_data_integration_using_probabilistic_reasoning_and_crowdsourcing)]
-2. Corleone: hands-off crowd- sourcing for entity matching (SIGMOD-14) [[Paper](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/gokhale.sigmod14.pdf)]
-3. Crowd-Based Deduplica- tion: An Adaptive Approach (SIGMOD-15) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2723372.2723739)]
+2. Corleone: hands-off crowdsourcing for entity matching (SIGMOD-14) [[Paper](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/gokhale.sigmod14.pdf)]
+3. Crowd-Based Deduplication: An Adaptive Approach (SIGMOD-15) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2723372.2723739)]
 4. Online Entity Resolution Using an Oracle (PVLDB-16) [[Paper](http://www.vldb.org/pvldb/vol9/p384-firmani.pdf)]
 5. Hike: A hybrid human-machine method for entity alignment in large-scale knowledge bases (CIKM-17) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132912?casa_token=t0SoJF2WayAAAAAA:yhviz0jakhcWfhGgec3viKFPZIenM4QBegX3_519-3oolRl8DQIzmgJhTBKTR0Tm97EIrEU73lRq)] ✨
 6. Waldo: AnAdaptive Human Interface for Crowd Entity Resolution (SIGMOD-17) [[Paper](http://ilpubs.stanford.edu:8090/1137/1/ERMultiItemTechRep.pdf)]
