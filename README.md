@@ -4,6 +4,7 @@ __General Papers__
 2. A Demonstration of PERC: Probabilistic Entity Resolution With Crowd Errors (VLDB-18) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3229863.3236225?casa_token=TcGvPimpEv0AAAAA:QLybjopBNLAnSFXO9MMW3bJwealx1xcgWu8dFwFsds5EjHYCWDu1-QE5HK9PNsm7CXu-hTSdhW0l), [Demo](https://www.youtube.com/watch?v=rQ7nu3b8zXY)]
 3. The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data (VLDB-18) [[Paper](http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf), [Code](https://github.com/scify/JedAIToolkit)]
 4. Crowdsourced collective entity resolution with relational match propagation (ICDE-20) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101689&casa_token=qG7UH84vy7gAAAAA:sOQWwszuj8DwkuCDoA21ggeS1MGcapCi4o0KvZSPekEeImXSAGVckrtmgekQR5jq1wzDRI0x&tag=1)]
+5. AuthCrowd: Author Name Disambiguation and Entity Matching using Crowdsourcing (CSCW-21) [[Paper](http://repository.essex.ac.uk/30049/1/Conference_Paper_IEEE_CSCWD21_AuthCrowd.pdf)]
 
 
 __Quality Control__
@@ -27,4 +28,4 @@ __Non-human entity alignment__
 8. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
 
 __Survey Papers__
-
+1. Entity Resolution: Past, Present and Yet-to-Come (EDBT-20) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
