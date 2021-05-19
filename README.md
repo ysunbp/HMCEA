@@ -23,3 +23,8 @@ __Non-human entity alignment__
 4. Visual Pivoting for (Unsupervised) Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2009.13603.pdf), [Code](https://github.com/cambridgeltl/eva)] ✨
 5. Relation-Aware Neighborhood Matching Model for Entity Alignment (AAAI-21) [[Paper](https://arxiv.org/pdf/2012.08128.pdf), [Code](https://github.com/Peter7Yao/RNM)]
 6. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
+7. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD-20) [[Paper](https://arxiv.org/pdf/2003.13114.pdf)]
+8. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
+
+__Survey Papers__
+
