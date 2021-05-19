@@ -34,6 +34,7 @@ __Non-human entity alignment__
 6. Improving the Efficiency and Effectiveness for Bert-Based Entity Resolution (AAAI-21) [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-7273.LiB.pdf)]
 7. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD-20) [[Paper](https://arxiv.org/pdf/2003.13114.pdf)]
 8. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1908.06049.pdf)]
+9. Towards Interpretable and Learnable Risk Analysis for Entity Resolution (SIGMOD-20) [[Paper](https://arxiv.org/pdf/1912.02947.pdf)]
 
 __Survey Papers__
 1. Crowdsourced Data Management: Overview and Challenges (SIGMOD-17) [[Paper](https://zhydhkcws.github.io/tutorial/sigmod_tutorial.pdf)]
