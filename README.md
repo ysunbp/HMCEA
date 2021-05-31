@@ -40,3 +40,4 @@ __Non-human entity alignment__
 __Survey Papers__
 1. Crowdsourced Data Management: Overview and Challenges (SIGMOD-17) [[Paper](https://zhydhkcws.github.io/tutorial/sigmod_tutorial.pdf)]
 2. Entity Resolution: Past, Present and Yet-to-Come (EDBT-20) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
+3. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB-20) [[Paper](https://arxiv.org/pdf/2003.07743.pdf)]
